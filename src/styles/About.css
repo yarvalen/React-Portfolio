@@ -1,0 +1,28 @@
+.About {
+    display: flex;
+    justify-content: space-around;
+  
+  }
+  
+  /* Appearance of sub headings for site categories */
+  h2 {
+    font-size: 24px;
+    margin-left: 2vw; 
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px grey;
+  }
+  
+  /* Sets the appearance for the 'about me' destription text */
+  .About p {
+    padding: 2vw;
+    
+  }
+  
+  /* Sets a responable size of my portrait image */
+  .About img {
+    width: 30vw;
+    object-fit: contain;
+    max-height: 300px;
+    float:right;
+  }
