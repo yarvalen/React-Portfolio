@@ -15,7 +15,7 @@ const About = () => {
           <img src={avatarImage} width={300} alt="cartoon profile" className="m-5 border-pink" />
         </div>
       </div>
-      <h1>About Page</h1>
+      {/* <h1>About Page</h1> */}
     </div>
   );
 };
